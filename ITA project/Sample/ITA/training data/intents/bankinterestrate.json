@@ -1,0 +1,46 @@
+{
+  "id": "97b881cd-de43-4c0f-a28a-42ff88537b72",
+  "name": "bankinterestrate",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "interest",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "29d3041f-06a9-4a3a-a180-b3927efebd4a",
+          "required": true,
+          "dataType": "@bank-name",
+          "name": "bank-name",
+          "value": "$bank-name",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Bank name?"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1521190595,
+  "fallbackIntent": false,
+  "events": []
+}

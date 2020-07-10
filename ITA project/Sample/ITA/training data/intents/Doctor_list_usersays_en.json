@@ -1,0 +1,202 @@
+[
+  {
+    "id": "2e36a75c-df3d-480e-912e-8962066ed9ff",
+    "data": [
+      {
+        "text": "doctors of ",
+        "userDefined": false
+      },
+      {
+        "text": "ent",
+        "alias": "Doc_type",
+        "meta": "@speciality",
+        "userDefined": true
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "Mangalore",
+        "alias": "locations",
+        "meta": "@locations",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523005258
+  },
+  {
+    "id": "05ac73be-ee84-4372-bfd0-c8280c161d66",
+    "data": [
+      {
+        "text": "show doctor details in ",
+        "userDefined": false
+      },
+      {
+        "text": "mangalore",
+        "alias": "locations",
+        "meta": "@locations",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1523005258
+  },
+  {
+    "id": "ac002c71-af6e-49c5-bfec-d32955bdca67",
+    "data": [
+      {
+        "text": "list of doctors in ",
+        "userDefined": false
+      },
+      {
+        "text": "mangalore",
+        "alias": "locations",
+        "meta": "@locations",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523005258
+  },
+  {
+    "id": "80046a61-7ec8-47b8-ac5b-69251dd9fd49",
+    "data": [
+      {
+        "text": "doctors in ",
+        "userDefined": false
+      },
+      {
+        "text": "mangalore",
+        "alias": "locations",
+        "meta": "@locations",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523005258
+  },
+  {
+    "id": "74803c76-f274-4807-8da9-525f202e6630",
+    "data": [
+      {
+        "text": "orthopedic",
+        "alias": "Doc_type",
+        "meta": "@speciality",
+        "userDefined": true
+      },
+      {
+        "text": " doctor",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523005258
+  },
+  {
+    "id": "fd12fd49-b2d0-4d6d-a19c-1a9277965c20",
+    "data": [
+      {
+        "text": "best ",
+        "userDefined": false
+      },
+      {
+        "text": "cardiology",
+        "alias": "Doc_type",
+        "meta": "@speciality",
+        "userDefined": true
+      },
+      {
+        "text": " doctor in ",
+        "userDefined": false
+      },
+      {
+        "text": "manipal",
+        "alias": "locations",
+        "meta": "@locations",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523005258
+  },
+  {
+    "id": "15807f89-a37c-41d2-935b-06e92fdf914c",
+    "data": [
+      {
+        "text": "best doctors for ",
+        "userDefined": false
+      },
+      {
+        "text": "dermatology",
+        "alias": "Doc_type",
+        "meta": "@speciality",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523005258
+  },
+  {
+    "id": "777524f3-8395-4c6d-82ea-146e08b9e2d5",
+    "data": [
+      {
+        "text": "list of doctors on ",
+        "userDefined": false
+      },
+      {
+        "text": "dentistry",
+        "alias": "Doc_type",
+        "meta": "@speciality",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523005258
+  },
+  {
+    "id": "be4ee328-4040-4140-9049-768869d0a48e",
+    "data": [
+      {
+        "text": "show list of ",
+        "userDefined": false
+      },
+      {
+        "text": "dentistry",
+        "alias": "Doc_type",
+        "meta": "@speciality",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523005258
+  },
+  {
+    "id": "da998244-4bbc-4489-806d-6f550b2c24bc",
+    "data": [
+      {
+        "text": "doctors list on ",
+        "userDefined": false
+      },
+      {
+        "text": "dentistry",
+        "alias": "Doc_type",
+        "meta": "@speciality",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1523005258
+  }
+]

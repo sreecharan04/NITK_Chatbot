@@ -1,0 +1,61 @@
+{
+  "id": "7baa23dd-0c4b-4b1b-98c3-8fa57cf085d3",
+  "name": "ListOfHospitals",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "hospital.list",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "16738b46-374d-44b9-8fba-81e4b71801b7",
+          "required": false,
+          "dataType": "@locations",
+          "name": "location",
+          "value": "$location",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Enter the city name"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "845b393d-a346-4734-8677-52b3e2fad9ee",
+          "required": true,
+          "dataType": "@locations",
+          "name": "locations",
+          "value": "$locations",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Enter the city name"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": [
+            "Here are the list of hospitals in $location",
+            "Here are the list of hospitals in $locations"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1520591827,
+  "fallbackIntent": false,
+  "events": []
+}

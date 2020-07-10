@@ -1,0 +1,52 @@
+[
+  {
+    "id": "816f7b5a-623d-4592-8e58-10eb93485736",
+    "data": [
+      {
+        "text": "interest rate in ",
+        "userDefined": false
+      },
+      {
+        "text": "Federal bank",
+        "alias": "bank-name",
+        "meta": "@bank-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521190595
+  },
+  {
+    "id": "44e94633-cae0-41ab-b7b0-c59cda6948e2",
+    "data": [
+      {
+        "text": "Federal bank",
+        "alias": "bank-name",
+        "meta": "@bank-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521189479
+  },
+  {
+    "id": "2f9a744b-36f9-46a5-8a23-80740bc05a6a",
+    "data": [
+      {
+        "text": "Federal bank",
+        "alias": "bank-name",
+        "meta": "@bank-name",
+        "userDefined": false
+      },
+      {
+        "text": " interest rate",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1521137183
+  }
+]

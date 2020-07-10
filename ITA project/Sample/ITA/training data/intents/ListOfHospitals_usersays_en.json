@@ -1,0 +1,32 @@
+[
+  {
+    "id": "4c20e7c4-b93f-446c-aac9-d1d606d7ff1c",
+    "data": [
+      {
+        "text": "list of hospitals in ",
+        "userDefined": false
+      },
+      {
+        "text": "mangalore",
+        "alias": "locations",
+        "meta": "@locations",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1520591827
+  },
+  {
+    "id": "67555b05-0229-4b1f-ae09-acb1dcf4162f",
+    "data": [
+      {
+        "text": "Show the list of hospitals",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1520591827
+  }
+]
